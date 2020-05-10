@@ -1,4 +1,4 @@
-repository: francolmenar-UC3M/francolmenar-UC3M.github.io
+repository: francolmenar-USYD/francolmenar-USYD.github.io
 
 
 layout: sidebar
@@ -35,7 +35,7 @@ projects:
     archived: false
     forks: false
     projects:
-      - francolmenar-UC3M.github.io
+      - francolmenar-USYD.github.io
 
 social_media:
   # behance: your_username
@@ -67,24 +67,25 @@ topics:
 organizations:
   Francolmenar: "true"
   Personal Projects: "true"
-  UC3M: "false"
+  UC3M: "true"
   UT: "true"
-  USYD: "true"
+  USYD: "false"
   VUW: "true"
 
 technologies:
   # Bitcoin: "true"
-  C: "true"
+  # C: "true"
   # CSS: "true"
   # Docker: "true"
   # Ethereum: "true"
   # Firebase: "true"
   # HTML: "true"
-  Java: "true"
+  #Java: "true"
   # JavaScript: "true"
   # Jupyter Notebook: "true"
   # Monero: "true"
-  # Python: "true"
-  # React: "true"
+  Python: "true"
+  React: "true"
   # Rust: "true"
-  SQL: "true"
+  # SQL: "true"
+  VHDL: "true"
